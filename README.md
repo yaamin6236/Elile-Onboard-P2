@@ -10,4 +10,4 @@ Hyperparameter Tuning: A grid search approach was implemented to optimize hyperp
 
 Visualization: Added a plot to visualize the actual vs. predicted solar energy values, providing a clear visual representation of the model's performance.
 
-My final loss from training reached 0.01850 compared to the original 0.0284
+My final loss from training reached 0.0185 compared to the original 0.0284
